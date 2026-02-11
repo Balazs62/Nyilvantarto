@@ -5,7 +5,7 @@ Ez egy WPF alapú nyilvántartó program anyagok kezelésére.
 ## Funkciók
 - Anyagok listázása és keresése
 - Új anyagok felvitele (validációval)
-- 
+  
 ## Hogyan indítsd el? (Telepítés nélkül)
 Mivel ez a forráskód, a futtatáshoz Visual Studio szükséges:
 
